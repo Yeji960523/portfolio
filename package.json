@@ -1,17 +1,27 @@
 {
-  "name": "lesson12",
+  "name": "lesson",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"parcel index.html",
-    "build":"parcel build index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeji960523/portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeji960523/portfolio/issues"
+  },
+  "homepage": "https://github.com/Yeji960523/portfolio#readme",
   "devDependencies": {
-    "bundler": "^0.8.0",
-    "parcel": "^2.8.2"
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3"
   }
 }
