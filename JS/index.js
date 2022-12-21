@@ -59,9 +59,7 @@ $('nav li>a').on('click',function(e){
 
 function submenu(){
 // html 연결
-$('#sub').on('click',function(e){
-
-})
+$('#sub')
 // jquery 연결
 }
 
